@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Murat Dzodzikov
 - 👀 I’m interested in DevOps practicies
 - 🌱 I’m currently learning Python, Jenkins, k8s.  
-- 📫 How to reach me: murdzod@mail.ru
+- 📫 How to reach me: murat@dzodzikov.net
